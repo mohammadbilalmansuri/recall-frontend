@@ -15,4 +15,4 @@ This is an end-to-end project built entirely in TypeScript, leveraging the MERN 
 
 This repository hosts the frontend for Recall.
 
-### Check out the backend repository [here]().
+### Check out the backend repository [here](https://github.com/mohammadbilalmansuri/recall-backend)
